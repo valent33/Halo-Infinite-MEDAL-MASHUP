@@ -19,6 +19,8 @@ Download the python file, insert your Autocode token and run the command
 
 Thereafter, it won't be necessary to use `--save-image`.
 
+Alternatively, you can use the notebook file included in this repository.
+
 # Gephi
 - Go to the Tools -> Plugins -> Available Plugins and install Image Preview. Install and restart Gephi.
 - On startup, open graph file and select nodes table as the import style
